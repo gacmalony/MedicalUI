@@ -1,1 +1,1 @@
-Basically 2 Activities with 2 RecyclerView, 2 nice UI(almost nice). 
+With cool interfaces.This project has basic functionality because my main purpose of create that, provide to customers with a nice login experience for my future apps. Like a step, schema that i will use.
