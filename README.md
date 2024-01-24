@@ -1,1 +1,4 @@
-With cool interfaces.This project has basic functionality because my main purpose of create that, provide to customers with a nice login experience for my future apps. Like a step, schema that i will use.
+With cool interfaces.My main purpose of create that, provide to customers with a nice login experience for my future apps. Like a step, schema that i will use.Additionally has 2 activity and 2 RecyclerView.That means you can add easily new item, image to widgets of 1., 2. Activities. Soon i will bind it with Google Firebase Database, that means data could save by users and fetch from database. Already I have a few Google Firebase Database, Locale database project in my GitHub as well, just i want add more functionality to this project.
+![MEDICALAPP](https://github.com/gacmalony/MedicalUI/assets/154236584/8dcfd98d-8bb0-4858-ab76-14af351e42c9)
+![Medicalapp2](https://github.com/gacmalony/MedicalUI/assets/154236584/7e1af34f-a313-4d2e-aeb8-1ff8d49146fb)
+![Medicalapp3](https://github.com/gacmalony/MedicalUI/assets/154236584/ebd89511-75ed-4b10-bd6f-f686823ff77f)
